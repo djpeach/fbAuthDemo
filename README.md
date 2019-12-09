@@ -1,0 +1,1 @@
+The article I wrote: [How to use Firebase Auth with a custom (node) backend](https://itnext.io/how-to-use-firebase-auth-with-a-custom-node-backend-99a106376c8a?source=friends_link&sk=ab8373c4ce9c869728e97b6ac4e160d2)
